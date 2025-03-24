@@ -2,6 +2,7 @@
 My personal Repository
 
 👨‍💻 About Me
+
 Hi, I'm Gaurav Kashyap, a Data Analyst passionate about transforming raw data into meaningful insights! With expertise in Excel, SQL, Python, and Power BI, I enjoy solving complex business problems through data-driven solutions.
 
 🎯 Skills & Expertise:
